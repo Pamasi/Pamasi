@@ -19,13 +19,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 ## Current Projects
 
-### Thesis: "Explainable AI Methods for Autonomous Driving"
-
-- **Description**: My current thesis work revolves around the development of explainable AI methods for autonomous driving. I'm committed to advancing transparency and trust in AI systems in this critical application area.
-
-- **Status**: Ongoing research. Updates and findings will be shared in the repository.
-
-### Project: ["Interpretable Perception Models for Autonomous Vehicles"](https://github.com/Pamasi/tir_cross_domain#cross-domain-object-detection-for-uav-based-thermal-imaging)
+### Project: [Interpretable Perception Models for Autonomous Vehicles](https://github.com/Pamasi/tir_cross_domain#cross-domain-object-detection-for-uav-based-thermal-imaging)
 
 - **Description**: This project aims to train a YOLOv7 to detect object from UAV at low-flight condition, exploting different point of view during training.
 
@@ -41,7 +35,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, or have insights on the Formula SAE or explainable AI, please feel free to reach out:
 
-- **Email**: [YourEmail@example.com](mailto:paolo.dimasi@outlook.com)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/paolo-dimasi)
+- **Email**: [paolo.dimasi@outlook.com](mailto:paolo.dimasi@outlook.com)
+- **LinkedIn**: [www.linkedin.com/in/paolo-dimasi](www.linkedin.com/in/paolo-dimasi)
 
 Let's bring Autonomous Driving to the next level! 🚗🤖🌟
