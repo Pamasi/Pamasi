@@ -1,28 +1,26 @@
-# Computer Engineer with a Passion for AI application in Autonomous Driving
+# Computer Engineer with a Passion for AI and Perception
 
-Welcome to my GitHub! I'm a computer engineering student with practical experience as a Perception Engineer.
+Welcome to my GitHub! I'm a computer engineering student with a strong passion for artificial intelligence, especially in the realm of perception applications
 
-## What Drives Me
+## About Me
 
-- **Autonomous Driving**: My experience as a Perception Engineer has fueled my passion for AI in the context of autonomous driving. I'm enthusiastic about the potential for technology to revolutionize transportation, making it safer, more efficient, and accessible.
-
-- **Explainable AI**: My current focus is on creating AI models that are transparent and interpretable, contributing to the trust and safety of autonomous driving systems.
+I'm a computer engineer who has honed my skills through practical experience. I started my journey as UAV Perception Engineer for  night vision system and then later joined the Formula SAE competion as LiDAR Perception Engineer. All these experience taught me the importance of real-world  AI applications and teamwork. Currently, I am doing my master thesis on  explainable AI-driven  models to improve safety of autonomous driving perception systems.
 
 ## Current Projects
 
-### Project: [Interpretable Perception Models for Autonomous Vehicles]
-- **Description**: This project aims to train a YOLOv7 to detect objects from UAV at low-flight conditions, exploiting different points of view during training.
+### Project: [Cross-Domain Object Detection for UAV-based Thermal Imaging](https://github.com/Pamasi/tir_cross_domain#cross-domain-object-detection-for-uav-based-thermal-imaging)
+- **Description**: This project aims to train a YOLOv7 to detect object from UAV at low-flight condition, exploting different point of view during training.
 
 - **Status**: Done. Find the code and documentation in the repository.
 
-### Project: "Efficient GPT-2 Inference"
+### Project: "Efficient GPT-2 inference"
 
-- **Description**: In the planning phase, this project will create an efficient framework to use Generative Pre-trained Transformer (GPT) on low-resource hardware.
+- **Description**: In the planning phase, this project will an efficient framework to use Generative Pre-trained Transformer(GPT) on low hardware resource.
 
 - **Status**: Stay tuned for updates.
 
-
 ## Get in Touch
+(https://github.com/Pamasi/tir_cross_domain#cross-domain-object-detection-for-uav-based-thermal-imaging)
 
 I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, or have insights on the Formula SAE or explainable AI, please feel free to reach out:
 
