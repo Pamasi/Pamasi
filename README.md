@@ -13,7 +13,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 - **Status**: Done. Find the code and documentation in the repository.
 
-### Project: "Efficient GPT-2 inference"
+### Project: Efficient GPT-2 inference
 
 - **Description**: In the planning phase, this project will an efficient framework to use Generative Pre-trained Transformer(GPT) on low hardware resource.
 
