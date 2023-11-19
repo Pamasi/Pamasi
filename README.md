@@ -20,8 +20,6 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 - **Status**: Stay tuned for updates.
 
 ## Get in Touch
-(https://github.com/Pamasi/tir_cross_domain#cross-domain-object-detection-for-uav-based-thermal-imaging)
-
 I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, or have insights on the Formula SAE or explainable AI, please feel free to reach out:
 
 - **Email**: [paolo.dimasi@outlook.com](mailto:paolo.dimasi@outlook.com)
