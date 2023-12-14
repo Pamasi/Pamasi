@@ -19,7 +19,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 - **Status**: Stay tuned for updates.
 
-### Project: Neuro-symbolic 
+### Project: [Empowering safety in Thermal Imaging using Rust](https://github.com/Pamasi/yolo_tir_rust)
 
 - **Description**: In the planning phase, this project will create an efficient framework to inference ours UAV-based Thermal Imaging detector based on Rust, even using ROS 2.
 
