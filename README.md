@@ -13,9 +13,15 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 - **Status**: Done. Find the code and documentation in the repository.
 
-### Project: Efficient GPT-2 inference
+### Project: Neuro-symbolic based sentence mathcing
 
-- **Description**: In the planning phase, this project will an efficient framework to use Generative Pre-trained Transformer(GPT) on low hardware resource.
+- **Description**: In the planning phase, this project will integrated prior-knowledge into a transformer-based encoder for sentence matching.
+
+- **Status**: Stay tuned for updates.
+
+### Project: Neuro-symbolic 
+
+- **Description**: In the planning phase, this project will create an efficient framework to inference ours UAV-based Thermal Imaging detector based on Rust, even using ROS 2.
 
 - **Status**: Stay tuned for updates.
 
