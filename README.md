@@ -17,7 +17,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 ### Project: Scene Graph Generation in Autonomous Driving: a neuro-symbolic approach
 
 - **Description**: This project aims to integrate prior knowledge into Scene Graph Generation using a neuro-symbolic approach based on Logit Tensor Network and Knowledge Graph Embedding
-- **Status**: Under review, stay tuned for updates.
+- **Status**: Under review, stay tuned for the release!
 
 ### Project: Neuro-symbolic based sentence matching
 
