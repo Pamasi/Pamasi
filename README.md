@@ -23,7 +23,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 - **Description**: In the planning phase, this project will integrate prior knowledge into a transformer-based encoder for sentence matching.
 
-- **Status**: Stay tuned for updates.
+- **Status**: Working progress.
 
 ### Project: [Empowering safety in Thermal Imaging using Rust](https://github.com/Pamasi/yolo_tir_rust)
 
