@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm a computer engineering with a strong passion for artif
 
 I'm a computer engineer who has honed my skills through practical experience. I started my journey as UAV Perception Engineer for  night vision systems and later joined the Formula SAE competition as LiDAR Perception Engineer. All these experiences taught me the importance of real-world  AI applications and teamwork.
 
+
 ## Current Projects
 
 ### Project: [Cross-Domain Object Detection for UAV-based Thermal Imaging](https://github.com/Pamasi/tir_cross_domain#cross-domain-object-detection-for-uav-based-thermal-imaging)
@@ -29,6 +30,8 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 - **Description**: This project will create an efficient framework to inference our UAV-based Thermal Imaging detector based on Rust using ROS 2.
 
 - **Status**: Working progress.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamasi&show_icons=true&theme=tokyonight)
 
 ## Get in Touch
 I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, or have insights on the Formula SAE or explainable AI, please feel free to reach out:
