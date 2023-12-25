@@ -14,6 +14,12 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 - **Status**: Done. Find the code and documentation in the repository.
 
+### Project: [Empowering safety in Thermal Imaging using Rust](https://github.com/Pamasi/yolo_tir_rust)
+
+- **Description**: This project will create an efficient framework to inference our UAV-based Thermal Imaging detector based on Rust using ROS 2.
+
+- **Status**: Working progress.
+  
 ### Project: Scene Graph Generation in Autonomous Driving: a neuro-symbolic approach
 
 - **Description**: This project aims to integrate prior knowledge into Scene Graph Generation using a neuro-symbolic approach based on Logit Tensor Network and Knowledge Graph Embedding
@@ -25,11 +31,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 - **Status**: Working progress, stay tuned for the release!
 
-### Project: [Empowering safety in Thermal Imaging using Rust](https://github.com/Pamasi/yolo_tir_rust)
 
-- **Description**: This project will create an efficient framework to inference our UAV-based Thermal Imaging detector based on Rust using ROS 2.
-
-- **Status**: Working progress.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamasi&show_icons=true&theme=tokyonight)
 
