@@ -18,7 +18,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 - **Description**: This project will create an efficient framework to inference our UAV-based Thermal Imaging detector based on Rust using ROS 2.
 
-- **Status**: Working progress.
+- **Status**: Under testing.
   
 ### Project: Scene Graph Generation in Autonomous Driving: a neuro-symbolic approach
 
