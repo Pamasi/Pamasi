@@ -16,7 +16,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 ### Project: [Empowering safety in Thermal Imaging using Rust](https://github.com/Pamasi/yolo_tir_rust)
 
-- **Description**: This project will create an efficient framework to inference our UAV-based Thermal Imaging detector based on Rust using ROS 2.
+- **Description**: This project builds an efficient framework to inference our UAV-based Thermal Imaging detector based on Rust using ROS 2.
 
 - **Status**: Under testing.
   
