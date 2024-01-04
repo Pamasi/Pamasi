@@ -14,7 +14,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 
 - **Status**: Done. Find the code and documentation in the repository.
 
-### Project: [Empowering safety in Thermal Imaging using Rust](https://github.com/Pamasi/yolo_tir_rust)
+### Project: [Empowering safety in Thermal Imaging using Rust](https://github.com/Pamasi/yolo_tir_rust/tree/develop)
 
 - **Description**: This project builds an efficient framework to inference our UAV-based Thermal Imaging detector based on Rust using ROS 2.
 
@@ -25,11 +25,11 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 - **Description**: This project aims to integrate prior knowledge into Scene Graph Generation using a neuro-symbolic approach based on Logit Tensor Network and Knowledge Graph Embedding
 - **Status**: Under review, stay tuned for the release!
 
-### Project: Neuro-symbolic based sentence matching
+### Project: [Sentence-BERT driven by Neuro-symbolic AI](https://github.com/Pamasi/phrase_matching_ltn/tree/develop)
 
 - **Description**: In the planning phase, this project will integrate prior knowledge into a transformer-based encoder for sentence matching.
 
-- **Status**: Working progress, stay tuned for the release!
+- **Status**: Training in progress.
 
 
 
