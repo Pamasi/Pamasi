@@ -1,11 +1,6 @@
 # Computer Engineer with a Passion for AI and Perception
 
-Welcome to my GitHub! I'm a computer engineering with a strong passion for artificial intelligence, especially in the realm of perception applications
-
-## About Me
-
-I'm a computer engineer who has honed my skills through practical experience. I started my journey as UAV Perception Engineer for  night vision systems and later joined the Formula SAE competition as LiDAR Perception Engineer. All these experiences taught me the importance of real-world  AI applications and teamwork.
-
+Welcome to my GitHub! I'm a computer engineer with a strong passion for artificial intelligence, especially in the realm of perception applications
 
 ## Current Projects
 
@@ -36,7 +31,7 @@ I'm a computer engineer who has honed my skills through practical experience. I 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamasi&show_icons=true&theme=tokyonight)
 
 ## Get in Touch
-I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, or have insights on the Formula SAE or explainable AI, please feel free to reach out:
+I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, please feel free to reach out:
 
 - **Email**: [paolo.dimasi@outlook.com](mailto:paolo.dimasi@outlook.com)
 - **LinkedIn**: [www.linkedin.com/in/paolo-dimasi](www.linkedin.com/in/paolo-dimasi)
