@@ -34,6 +34,6 @@ Welcome to my GitHub! I'm a computer engineer with a strong passion for artifici
 I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, please feel free to reach out:
 
 - **Email**: [paolo.dimasi@outlook.com](mailto:paolo.dimasi@outlook.com)
-- **LinkedIn**: [www.linkedin.com/in/paolo-dimasi](www.linkedin.com/in/paolo-dimasi)
+- **LinkedIn**: [www.linkedin.com/in/paolo-dimasi](https://www.linkedin.com/in/paolo-dimasi/)
 
 Let's bring Autonomous Driving to the next level! 🚗🤖🌟
