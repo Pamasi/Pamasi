@@ -27,9 +27,6 @@ Welcome to my GitHub! I'm a computer engineer with a strong passion for artifici
 - **Status**: Training in progress.
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamasi&show_icons=true&theme=tokyonight)
-
 ## Get in Touch
 I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, please feel free to reach out:
 
