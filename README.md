@@ -23,9 +23,9 @@ Welcome to my GitHub! I'm a computer engineer with a strong passion for artifici
 
 ### Project: [Sentence-BERT driven by Neuro-symbolic AI](https://github.com/Pamasi/phrase_matching_ltn/tree/develop)
 
-- **Description**: In the planning phase, this project will integrate prior knowledge into a transformer-based encoder for sentence matching.
+- **Description**: This project integrates prior knowledge into a transformer-based encoder for sentence matching.
 
-- **Status**: Training in progress.
+- **Status**: Training in progress, stay tuned for the final release!
 
 
 ## Get in Touch
