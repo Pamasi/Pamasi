@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a computer engineer with a strong passion for artifici
 
 - **Description**: This project builds an efficient framework to inference our UAV-based Thermal Imaging detector based on Rust using ROS 2.
 
-- **Status**: Under testing.
+- **Status**: Done. Find the code and documentation in the repository.
   
 
 ### Project: [Sentence-BERT driven by Neuro-symbolic AI](https://github.com/Pamasi/phrase_matching_ltn/tree/develop)
