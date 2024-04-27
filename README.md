@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a computer engineer with a strong passion for artifici
 - **Description**: This project integrates prior knowledge into Scene Graph Generation using a neuro-symbolic approach based on Logit Tensor Network and Knowledge Graph Embedding
 - **Status**: Done. Find the code and documentation in the repository.
   
-### Project: [Empowering safety in Thermal Imaging using Rust](https://github.com/Pamasi/yolo_tir_rust/tree/develop)
+### Project: [Empowering safety in Thermal Imaging using Rust](https://github.com/Pamasi/yolo_tir_rust/tree/main)
 
 - **Description**: This project builds an efficient framework to inference our UAV-based Thermal Imaging detector based on Rust using ROS 2.
 
