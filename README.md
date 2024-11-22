@@ -1,4 +1,4 @@
-# System Engineer - Computional Imaging
+# System Engineer - Computational Imaging
 
 Welcome to my GitHub! I'm a System Engineer specializing in Computer Vision and Sensor Fusion for Autonomous Driving.
 
