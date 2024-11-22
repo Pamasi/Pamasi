@@ -1,6 +1,6 @@
-# Computer Engineer with a Passion for AI and Perception
+# System Engineer - Computional Imaging
 
-Welcome to my GitHub! I'm a computer engineer with a strong passion for artificial intelligence, especially in the realm of perception applications
+Welcome to my GitHub! I'm a System Engineer specializing in Computer Vision and Sensor Fusion for Autonomous Driving.
 
 ## Current Projects
 
@@ -20,13 +20,6 @@ Welcome to my GitHub! I'm a computer engineer with a strong passion for artifici
 
 - **Status**: Done. Find the code and documentation in the repository.
   
-
-### Project: [Sentence-BERT driven by Neuro-symbolic AI](https://github.com/Pamasi/phrase_matching_ltn/tree/develop)
-
-- **Description**: This project integrates prior knowledge into a transformer-based encoder for sentence matching.
-
-- **Status**: Training in progress, stay tuned for the final release!
-
 
 ## Get in Touch
 I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, please feel free to reach out:
