@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a System Engineer specializing in Computer Vision and 
   
 ### Project: [Scene Graph Generation in Autonomous Driving: a neuro-symbolic approach](https://github.com/Pamasi/sgg_av)
 
-- **Description**: This project integrates prior knowledge into Scene Graph Generation using a neuro-symbolic approach based on Logit Tensor Network and Knowledge Graph Embedding
+- **Description**: This project integrates prior knowledge into Scene Graph Generation using a neuro-symbolic approach based on Logic Tensor Network and Knowledge Graph Embedding
 - **Status**: Done. Find the code and documentation in the repository.
   
 ### Project: [Sentence-BERT driven by Neuro-symbolic AI](https://github.com/Pamasi/phrase_matching_ltn/tree/develop)
