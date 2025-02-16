@@ -14,13 +14,17 @@ Welcome to my GitHub! I'm a System Engineer specializing in Computer Vision and 
 - **Description**: This project integrates prior knowledge into Scene Graph Generation using a neuro-symbolic approach based on Logit Tensor Network and Knowledge Graph Embedding
 - **Status**: Done. Find the code and documentation in the repository.
   
-### Project: [Empowering safety in Thermal Imaging using Rust](https://github.com/Pamasi/yolo_tir_rust/tree/main)
+### Project: [Sentence-BERT driven by Neuro-symbolic AI](https://github.com/Pamasi/phrase_matching_ltn/tree/develop)
 
-- **Description**: This project builds an efficient framework to inference our UAV-based Thermal Imaging detector based on Rust using ROS 2.
+- **Description**: This project aims to train a neuro-symbolic model used to participate in the competition "U.S. Patent Phrase to Phrase Matching.
 
-- **Status**: Done. Find the code and documentation in the repository.
+- **Status**: Under Review. Stay tune for the final release!
   
+### Project: [Physics-Informed Neural Network for RADAR Tracking](https://github.com/Pamasi/pinn_kkl_observer/tree/develop)
 
+- **Description**: This project aims to design a Deep Learing-based Non-Linear Observer for RADAR Tracking imposing physical constraints to ease mode explainability.
+
+- **Status**: In Progress.
 ## Get in Touch
 I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, please feel free to reach out:
 
