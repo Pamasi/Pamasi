@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a System Engineer specializing in Computer Vision and 
   
 ### Project: [Physics-Informed Neural Network for RADAR Tracking](https://github.com/Pamasi/pinn_kkl_observer/tree/develop)
 
-- **Description**: This project aims to design a Deep Learing-based Non-Linear Observer for RADAR Tracking imposing physical constraints to ease model explainability.
+- **Description**: This project aims to design a Deep Learning-based Non-Linear Observer for RADAR Tracking imposing physical constraints to ease model explainability.
 
 - **Status**: In Progress.
 ## Get in Touch
