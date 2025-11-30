@@ -18,17 +18,17 @@ Welcome to my GitHub! I'm a System Engineer specializing in Computer Vision and 
 
 - **Description**: This project aims to train a neuro-symbolic model used to participate in the competition "U.S. Patent Phrase to Phrase Matching.
 
-- **Status**: Under Review. Stay tune for the final release!
+- **Status**: Under Review. 
   
-### Project: [Physics-Informed Neural Network for RADAR Tracking](https://github.com/Pamasi/pinn_kkl_observer/tree/develop)
+### Project: [PINN Observer for NLOS Tracking](https://github.com/Pamasi/pinn_kkl_observer/tree/develop)
 
-- **Description**: This project aims to design a Deep Learning-based Non-Linear Observer for RADAR Tracking imposing physical constraints to ease model explainability.
+- **Description**: This project aims to design a Neural Network for a NLOS Observer for  hypersonic aircraft tracking based on RADAR measurements and physical constraints to ease model explainability.
 
-- **Status**: In Progress.
+- **Status**: Under Review.  Stay tune for the final release!
 ## Get in Touch
 I'm open to collaboration and discussions. If you share my passion for AI, Autonomous Driving, please feel free to reach out:
 
 - **Email**: [paolo.dimasi@outlook.com](mailto:paolo.dimasi@outlook.com)
 - **LinkedIn**: [www.linkedin.com/in/paolo-dimasi](https://www.linkedin.com/in/paolo-dimasi/)
 
-Let's bring Autonomous Driving to the next level! 🚗🤖🌟
+Let's bring Autonomous Driving to the next level! 🛦🛩🛰
